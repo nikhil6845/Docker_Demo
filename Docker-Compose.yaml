@@ -1,6 +1,6 @@
 services:
   nginx:
-    image: nikhil6845/my-nginx:v1
+    image: my-nginx:v1
     ports:
      - "8094:80"
      
